@@ -1,6 +1,6 @@
 
 #entrada de datos
-litros = float(input("nivel de sisterna en litros: "))
+litros = float(input("nivel de cisterna en litros: "))
 
 #operaciones y condicionales
 
